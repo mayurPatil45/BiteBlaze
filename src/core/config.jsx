@@ -1,0 +1,1 @@
+export const API_BASE_URL = "www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata";
